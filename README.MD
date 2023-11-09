@@ -16,7 +16,6 @@ npm install && npm start
 - auth.js
 - jobs.js
 
-```
 
 #### Register User
 
